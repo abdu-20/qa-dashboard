@@ -3,6 +3,7 @@ QA Dashboard - Streamlit Application
 A comprehensive dashboard for analyzing QA performance data
 Optimized for Streamlit Cloud deployment
 """
+import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
